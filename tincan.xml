@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd">
+    <activities>
+        <activity id="https://open-data-essentials.learndata.info/" type="http://adlnet.gov/expapi/activities/course">
+            <name><![CDATA[Open Data Essentials]]></name>
+            <description lang="en-US"><![CDATA[]]></description>
+            <launch lang="en-US">index.html</launch>
+        </activity>
+    </activities>
+</tincan>

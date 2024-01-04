@@ -1,0 +1,99 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_fixes": {
+    "_imgLazyLoad": true
+  },
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "_disableAnimationFor": [],
+  "_id": "63f371d9b38aaf6b93dd737a",
+  "__v": 8,
+  "_accessibility": {
+    "_isEnabled": false,
+    "_isSkipNavigationEnabled": true,
+    "_ariaLevels": {
+      "_menu": "1",
+      "_menuGroup": "@menu+1",
+      "_menuItem": "@menu+1",
+      "_page": "1",
+      "_article": "@page+1",
+      "_block": "@article+1",
+      "_component": "@block+1",
+      "_componentItem": "@component+1",
+      "_notify": "1"
+    }
+  },
+  "_courseId": "63f371d8b38aaf6b93dd7375",
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400,
+    "_position": "auto"
+  },
+  "screenSize": {
+    "small": 519,
+    "medium": 759,
+    "large": 1024,
+    "xlarge": 1280
+  },
+  "_completionCriteria": {
+    "_requireContentCompleted": false,
+    "_requireAssessmentCompleted": true,
+    "_submitOnEveryAssessmentAttempt": true,
+    "_shouldSubmitScore": true
+  },
+  "_logging": {
+    "_isEnabled": true,
+    "_level": "info",
+    "_console": true,
+    "_warnFirstOnly": true
+  },
+  "_scrollingContainer": {
+    "_isEnabled": false,
+    "_limitToSelector": ""
+  },
+  "_backButton": {
+    "_isEnabled": true
+  },
+  "_homeButton": {
+    "_isEnabled": false
+  },
+  "_xapi": {
+    "_isEnabled": true,
+    "_specification": "xAPI",
+    "_activityID": "https://open-data-essentials.learndata.info/",
+    "_cookiePrefix": "info.learndata.",
+    "_endpoint": "https://theodi.learninglocker.net/data/xAPI",
+    "_user": "6909c5225109d2b83cd6227511825efeb030298c",
+    "_password": "450683a7d1aed30fa1fd0ce1ae830e1e63661b3c",
+    "_lang": "en-US",
+    "_generateIds": false,
+    "_shouldTrackState": true,
+    "_shouldUseRegistration": false,
+    "_componentBlacklist": "blank,graphic",
+    "_coreEvents": {
+      "Adapt": {
+        "router:menu": false,
+        "router:page": false,
+        "questionView:recordInteraction": true,
+        "assessments:complete": true
+      },
+      "contentObjects": {
+        "change:_isComplete": true
+      },
+      "articles": {
+        "change:_isComplete": false
+      },
+      "blocks": {
+        "change:_isComplete": true
+      },
+      "components": {
+        "change:_isComplete": true
+      }
+    },
+    "_lrsFailureBehaviour": "show",
+    "_queryURL": ""
+  }
+}
