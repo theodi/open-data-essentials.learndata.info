@@ -65,7 +65,7 @@
     "_specification": "xAPI",
     "_activityID": "https://open-data-essentials.learndata.info/",
     "_cookiePrefix": "info.learndata.",
-    "_endpoint": "https://theodi.learninglocker.net/data/xAPI",
+    "_endpoint": "https://xapi.learndata.info/xAPI",
     "_user": "6909c5225109d2b83cd6227511825efeb030298c",
     "_password": "450683a7d1aed30fa1fd0ce1ae830e1e63661b3c",
     "_lang": "en-US",
